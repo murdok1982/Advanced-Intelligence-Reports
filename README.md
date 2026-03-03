@@ -16,5 +16,5 @@ En este repositorio se subirán recurrentemente **informes de inteligencia avanz
 
 **🪙 Bitcoin (BTC) Address:**
 ```text
-[INSERTA_TU_DIRECCION_BITCOIN_AQUI]
+bc1qqphwht25vjzlptwzjyjt3sex7e3p8twn390fkw
 ```
